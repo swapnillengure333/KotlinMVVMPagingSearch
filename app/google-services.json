@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "676172651718",
+    "project_id": "snowsoft-fe1d0",
+    "storage_bucket": "snowsoft-fe1d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676172651718:android:7434cfb29460d8f6a4cbc7",
+        "android_client_info": {
+          "package_name": "com.sal.snowsoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676172651718-f75do5udn4knkdulgcepkqkh3iunlm6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sal.snowsoft",
+            "certificate_hash": "5b70307c9c4f47ad22ba6fd7d94119aa7d6203ba"
+          }
+        },
+        {
+          "client_id": "676172651718-832i80sj1kfvkjh39f3f1gg9ko8oqjp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl4ejdDqSCWS2CGLoF4E3STo8nKd3JY-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676172651718-832i80sj1kfvkjh39f3f1gg9ko8oqjp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
